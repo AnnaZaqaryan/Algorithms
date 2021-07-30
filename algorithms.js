@@ -74,6 +74,6 @@ module.exports = {
     filter: filter,
     reversArray: reversArray,
     fibonacci: fibonacci,
-    palidrom: palidrom,
+    palindrome: palindrome,
     maxInArray : maxInArray
 };
